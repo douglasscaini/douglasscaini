@@ -7,9 +7,9 @@
 </p>
 
 <p align="left">
-  📚 Graduação em andamento em Ciência da Computação na
+  📚 Graduado em Ciência da Computação pela
   <br/>
-  Universidade do Oeste de Santa Catarina - Campus Videira, UNOESC.
+  Universidade do Oeste de Santa Catarina - Campus de Videira.
   <br/>
   <br/>
   ⭐ Fã de The Witcher.
