@@ -3,7 +3,7 @@
 <img src="./.github/dev.svg" width="300px" height="300px" align="right" alt="Developer">
 
 <p align="left"> 
-  Atualmente estou me especializando nas tecnologias mais modernas de desenvolvimento web e mobile: <strong>ReactJS, React Native & TypeScript</strong>.
+  Atualmente estou me especializando nas tecnologias mais modernas de desenvolvimento web: <strong>React, Next, JavaScript & TypeScript</strong>.
 </p>
 
 <p align="left">
