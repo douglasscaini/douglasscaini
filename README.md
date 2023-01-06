@@ -27,6 +27,5 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglasscaini.dev@gmail.com)](mailto:douglasscaini.dev@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasscaini/)](https://www.linkedin.com/in/douglasscaini/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/douglasscaini/)](https://www.instagram.com/douglasscaini/)
 
 </p>
