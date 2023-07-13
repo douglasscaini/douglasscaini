@@ -12,9 +12,9 @@
   Universidade do Oeste de Santa Catarina - Campus de Videira.
   <br/>
   <br/>
-  ⭐ Fã de The Witcher.
-  <br/>
   ⭐ CS:GO é meu jogo favorito.
+  <br/>
+  ⭐ Gosto de Star Wars e The Witcher.
 </p>
 
 <br/>
