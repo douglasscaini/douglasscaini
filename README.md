@@ -7,9 +7,7 @@
 </p>
 
 <p align="left">
-  📚 Graduado em Ciência da Computação pela
-  <br/>
-  Universidade do Oeste de Santa Catarina - Campus de Videira.
+  📚 Graduado em Ciência da Computação pela Universidade do Oeste de Santa Catarina (UNOESC) | Campus de Videira - SC.
   <br/>
   <br/>
   ⭐ CS:GO é meu jogo favorito.
