@@ -7,10 +7,10 @@
 </p>
 
 <p align="left">
-  🎒 Bacharel em Ciência da Computação pela Universidade do Oeste de Santa Catarina (UNOESC) | Campus de Videira - Santa Catarina.
+  📕 Bacharel em Ciência da Computação pela Universidade do Oeste de Santa Catarina (UNOESC) | Campus de Videira - Santa Catarina.
   <br/>
   <br/>
-  💣 CS:GO é meu jogo favorito.
+  🎮 CS:GO é meu jogo favorito.
   <br/>
   ⚔️ Gosto de Star Wars e The Witcher.
 </p>
