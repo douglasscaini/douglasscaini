@@ -1,6 +1,6 @@
 ## Olá, meu nome é
 
-<img src="./.github/dev.svg" width="300px" height="250px" align="right" alt="Developer">
+<img src="./.github/dev.svg" width="290px" height="290px" align="right" alt="Developer">
 
 Douglas Scaini 👋
 
