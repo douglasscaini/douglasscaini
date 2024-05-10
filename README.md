@@ -1,16 +1,20 @@
 ## Olá, meu nome é
 
+<img src="./.github/dev.svg" width="300px" height="250px" align="right" alt="Developer">
+
 Douglas Scaini 👋
 
-<img src="./.github/dev.svg" width="300px" height="300px" align="right" alt="Developer">
+</br>
 
 <p align="left"> 
   Utilizo as mais avançadas e modernas tecnologias de desenvolvimento web 👨‍💻
 </p>
 
 <p align="left">
-  Bacharel em Ciência da Computação pela Universidade do Oeste de Santa Catarina - UNOESC 📚 
+  Bacharel em Ciência da Computação pela Universidade do Oeste de Santa Catarina 📚 
 </p>
+
+</br>
 
 <p align="left">
   Entre em contato:
