@@ -1,8 +1,8 @@
 ## Olá, meu nome é
 
-<img src="./.github/dev.svg" width="290px" height="270px" align="right" alt="Developer">
-
 Douglas Scaini 👋
+
+<img src="./.github/dev.svg" width="290px" height="270px" align="right" alt="Developer">
 
 <p align="left"> 
   Utilizo as mais avançadas e modernas tecnologias de desenvolvimento web 👨‍💻
@@ -25,7 +25,7 @@ Douglas Scaini 👋
 
 <p align="left">
 
-[![E-mail](https://img.shields.io/badge/Gmail-705DCB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oi@douglasscaini.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-705DCB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasscaini/)
+[![Linkedin Badge](https://img.shields.io/badge/-Douglas%20Scaini-705DCB?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasscaini/)](https://www.linkedin.com/in/douglasscaini/)
+[![Gmail Badge](https://img.shields.io/badge/-oi@douglasscaini.com.br-705DCB?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oi@douglasscaini.com.br)](mailto:oi@douglasscaini.com.br)
 
 </p>
