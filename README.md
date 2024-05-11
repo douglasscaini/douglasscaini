@@ -4,8 +4,6 @@
 
 Douglas Scaini 👋
 
-</br>
-
 <p align="left"> 
   Utilizo as mais avançadas e modernas tecnologias de desenvolvimento web 👨‍💻
 </p>
@@ -13,8 +11,6 @@ Douglas Scaini 👋
 <p align="left">
   Bacharel em Ciência da Computação pela Universidade do Oeste de Santa Catarina 📚 
 </p>
-
-</br>
 
 <p align="left">
   Entre em contato:
@@ -26,3 +22,5 @@ Douglas Scaini 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasscaini/)
 
 </p>
+
+Se voce gostou do que viu, aproveite e dê uma espiada no meu website: [douglasscaini.com.br](https://www.douglasscaini.com.br/) 💜
