@@ -2,7 +2,7 @@
 
 Douglas Scaini 👋
 
-<img src="./.github/dev.svg" width="290px" height="250px" align="right" alt="Developer">
+<img src="./.github/dev.svg" width="290px" height="220px" align="right" alt="Developer">
 
 <p align="left"> 
   Utilizo as mais avançadas e modernas tecnologias de desenvolvimento web 👨‍💻
