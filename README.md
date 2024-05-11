@@ -20,7 +20,7 @@ Douglas Scaini 👋
 </p>
 
 <p align="left">
-   Se você gostou do que viu, entre em contato:
+   Não hesite! Entre em contato:
 </p>
 
 <p align="left">
