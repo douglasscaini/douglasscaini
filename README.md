@@ -13,17 +13,19 @@ Douglas Scaini 👋
 </p>
 
 <p align="left">
-  Entre em contato:
+    Aproveite e dê uma espiada no meu website:
+
+[douglasscaini.com.br](https://www.douglasscaini.com.br/) 💜
+
+</p>
+
+<p align="left">
+   Se você gostou do que viu, entre em contato:
 </p>
 
 <p align="left">
 
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oi@douglasscaini.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasscaini/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/douglasscaini/)
+[![E-mail](https://img.shields.io/badge/Gmail-705DCB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oi@douglasscaini.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-705DCB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasscaini/)
 
 </p>
-
-Além disso, se voce gostou do que viu, dê uma espiada no meu website:
-
-[douglasscaini.com.br](https://www.douglasscaini.com.br/) 💜
