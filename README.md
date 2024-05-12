@@ -25,7 +25,7 @@ Douglas Scaini 👋
 
 <p align="left">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Douglas%20Scaini-705DCB?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasscaini/)](https://www.linkedin.com/in/douglasscaini/)
 [![Gmail Badge](https://img.shields.io/badge/-oi@douglasscaini.com.br-705DCB?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oi@douglasscaini.com.br)](mailto:oi@douglasscaini.com.br)
+[![Linkedin Badge](https://img.shields.io/badge/-Douglas%20Scaini-705DCB?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasscaini/)](https://www.linkedin.com/in/douglasscaini/)
 
 </p>
