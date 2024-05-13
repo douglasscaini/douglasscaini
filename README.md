@@ -1,6 +1,6 @@
 ## Olá, meu nome é Douglas Scaini 👋
 
-<img src="./.github/dev.svg" width="290px" height="210px" align="right" alt="Developer">
+<img src="./.github/dev.svg" width="290px" height="230px" align="right" alt="Developer">
 
 <p align="left"> 
   Utilizo as mais avançadas e modernas tecnologias de desenvolvimento web 👨‍💻
