@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  Bacharel em Ciência da Computação pela Universidade do Oeste de Santa Catarina 📚 
+  Bacharel em Ciência da Computação pela Univers. do Oeste de Santa Catarina 📚 
 </p>
 
 <p align="left">
