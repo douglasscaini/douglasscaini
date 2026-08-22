@@ -1,6 +1,6 @@
 ## Olá, eu sou o Douglas Scaini 👋
 
-<img src="./dev.svg" width="200px" height="180px" align="right" alt="Developer">
+<img src="./dev.svg" width="150px" height="150px" align="right" alt="Developer">
 
 <p align="left"> 
   🧑‍💻 Programador Full-Stack
