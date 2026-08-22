@@ -1,29 +1,23 @@
-## Olá, meu nome é Douglas Scaini 👋
+## Olá, eu sou o Douglas Scaini 👋
 
-<img src="./.github/dev.svg" width="290px" height="230px" align="right" alt="Developer">
+<img src="./developer-illustration.svg" width="290px" height="230px" align="right" alt="Developer">
 
 <p align="left"> 
-  Utilizo as mais avançadas e modernas tecnologias de desenvolvimento web 👨‍💻
+  🧑‍💻 Programador Full-Stack
 </p>
 
 <p align="left">
-  Bacharel em Ciência da Computação pela Univers. do Oeste de Santa Catarina 📚 
+  📚 Bacharel em Ciência da Computação
 </p>
 
 <p align="left">
-    Aproveite e dê uma espiada no meu website:
+   
+👉 [douglasscaini.com.br](https://www.douglasscaini.com.br/)
 
-[douglasscaini.com.br](https://www.douglasscaini.com.br/) 💜
-
-</p>
-
-<p align="left">
-   Não hesite! Entre em contato:
 </p>
 
 <p align="left">
 
-[![Gmail Badge](https://img.shields.io/badge/-oi@douglasscaini.com.br-705DCB?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oi@douglasscaini.com.br)](mailto:oi@douglasscaini.com.br)
-[![Linkedin Badge](https://img.shields.io/badge/-Douglas%20Scaini-705DCB?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasscaini/)](https://www.linkedin.com/in/douglasscaini/)
+[![LinkedIn Badge](./linkedin-badge.svg)](https://www.linkedin.com/in/douglasscaini/) [![Gmail Badge](./gmail-badge.svg)](mailto:oi@douglasscaini.com.br) 
 
 </p>
