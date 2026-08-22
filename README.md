@@ -10,6 +10,6 @@
 
 <p align="left">
 
-  👉 <a href="https://www.douglasscaini.com.br/" target="_blank" rel="noopener noreferrer">douglasscaini.com.br</a>
+👉 [douglasscaini.com.br](https://www.douglasscaini.com.br/)
 
 </p>
