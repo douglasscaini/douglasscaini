@@ -18,8 +18,6 @@ oi — eu sou o Douglas 👋
 
 </div>
 
-<br>
-
 ---
 
 <div align="center">
