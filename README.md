@@ -1,5 +1,3 @@
-<br>
-
 <div align="center">
 
 oi — eu sou o Douglas 👋
